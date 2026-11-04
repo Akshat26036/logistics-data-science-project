@@ -1,0 +1,201 @@
+Feature,Importance
+num__Days for shipment (scheduled),0.9237345791857725
+cat__Shipping Mode_First Class,0.034988746463330576
+cat__Shipping Mode_Same Day,0.028365657100977645
+num__Order_DayOfWeek,0.0039079835172723745
+num__Order_Month,0.003282820122967722
+num__Order_Year,0.0007483896355958836
+cat__Shipping Mode_Second Class,0.00040739426794392204
+cat__Shipping Mode_Standard Class,0.00037595585638535036
+cat__Order Country_Cuba,0.00020110943953192747
+cat__Order Country_Reino Unido,0.0001931075017251242
+cat__Order Country_El Salvador,0.00018013564274076428
+cat__Order Country_Panamá,0.0001547626558156601
+cat__Order Country_Noruega,0.00014502002057510544
+cat__Order Country_República Democrática del Congo,0.00012038585667824781
+cat__Order Country_Polonia,0.00011533116220540751
+cat__Order Country_Trinidad y Tobago,0.00011487711808394826
+cat__Order Country_Mozambique,0.00010617571501088594
+cat__Order Country_Chile,0.00010584878539318763
+cat__Order Country_Perú,9.376308103447418e-05
+cat__Order Country_Senegal,8.37693338820276e-05
+cat__Order Country_Ghana,7.880581105519878e-05
+cat__Order Country_Benín,6.811085191563343e-05
+cat__Order Region_Central Africa,6.071074873279197e-05
+cat__Order Country_Camerún,5.05759612476794e-05
+cat__Order Region_East of USA,4.6132589152400935e-05
+cat__Order Country_Moldavia,4.527535169922021e-05
+cat__Order Region_Western Europe,4.5136146774448765e-05
+cat__Order Country_Irak,4.422309785674998e-05
+cat__Order Country_Togo,4.288599233279687e-05
+cat__Order Country_Argelia,3.9674357363981824e-05
+cat__Order Country_Suecia,3.9326519076879017e-05
+cat__Order Country_Alemania,3.875305608380568e-05
+cat__Order Country_Paraguay,3.6822036031642006e-05
+cat__Order Country_Corea del Sur,3.665028617356196e-05
+cat__Order Country_Irán,3.645271586430633e-05
+cat__Order Country_Italia,3.550861824071366e-05
+cat__Order Country_Bélgica,3.5179206275618524e-05
+cat__Order Region_Southern Africa,3.445521270545333e-05
+cat__Order Country_Países Bajos,3.436529397878194e-05
+cat__Order Region_Northern Europe,3.3162563366195517e-05
+cat__Order Country_Angola,3.222631849815705e-05
+cat__Order Country_Hungría,3.218468785517796e-05
+cat__Order Country_Canada,3.181023117684141e-05
+cat__Order Country_Francia,3.143342681922795e-05
+cat__Order Country_Venezuela,3.1320389472351144e-05
+cat__Order Country_India,3.020989213146072e-05
+cat__Order Country_Portugal,2.9691592431720716e-05
+cat__Order Region_Central Asia,2.8688734151158703e-05
+cat__Order Country_Argentina,2.8660306867645068e-05
+cat__Order Country_Pakistán,2.7512787956833943e-05
+cat__Order Country_Haití,2.6955367423200018e-05
+cat__Order Country_Suiza,2.6301274130883918e-05
+cat__Order Country_Sudán,2.597852181591857e-05
+cat__Order Region_West of USA ,2.53284799672458e-05
+cat__Order Country_Austria,2.5303200235474802e-05
+cat__Order Region_South of  USA ,2.503165351064744e-05
+cat__Order Region_Canada,2.3997038565228408e-05
+cat__Order Region_South America,2.3304048189720456e-05
+cat__Order Region_Southeast Asia,2.2476143911102737e-05
+cat__Market_LATAM,2.2302631581620544e-05
+cat__Order Country_Finlandia,2.2229761152551798e-05
+cat__Order Region_Caribbean,2.2121221583754282e-05
+cat__Order Country_Guatemala,2.193934700607805e-05
+cat__Order Country_Malasia,2.141271287862173e-05
+cat__Order Country_SudAfrica,2.1346470133407497e-05
+cat__Order Country_Uruguay,2.131194181616124e-05
+cat__Order Country_Singapur,2.091977301668367e-05
+cat__Order Country_Brasil,2.0483894089944788e-05
+cat__Order Country_República Dominicana,2.027611669646158e-05
+cat__Order Country_Kazajistán,2.0080547259970563e-05
+cat__Order Country_Papúa Nueva Guinea,2.0058175534534824e-05
+cat__Order Country_China,1.981262439089241e-05
+cat__Order Country_Colombia,1.977987114077855e-05
+cat__Order Country_Myanmar (Birmania),1.938133711832894e-05
+cat__Order Country_Rusia,1.8355150438157153e-05
+cat__Order Country_Tailandia,1.8205883266709043e-05
+cat__Order Country_México,1.7926161100359064e-05
+cat__Order Region_South Asia,1.7858389620277536e-05
+cat__Order Country_Turkmenistán,1.777840052455284e-05
+cat__Order Country_Siria,1.772415108877245e-05
+cat__Order Country_Israel,1.7486066725192396e-05
+cat__Order Country_Filipinas,1.7310709870039285e-05
+cat__Order Country_Bolivia,1.728307069912611e-05
+cat__Order Country_Dinamarca,1.718205634408854e-05
+cat__Order Country_Tanzania,1.7076597327921216e-05
+cat__Order Country_Indonesia,1.697148501567823e-05
+cat__Order Region_US Center ,1.637921950848524e-05
+cat__Order Country_Bangladés,1.636393351246879e-05
+cat__Order Region_West Asia,1.6292789825290263e-05
+cat__Order Country_República Checa,1.6135608235891673e-05
+cat__Order Country_Albania,1.6113096865324924e-05
+cat__Order Country_Marruecos,1.6074381955942436e-05
+cat__Order Country_Australia,1.5897935154271427e-05
+cat__Order Country_Honduras,1.5387619770962348e-05
+cat__Order Region_Southern Europe,1.4569528454659075e-05
+cat__Order Country_Kenia,1.445956862402148e-05
+cat__Order Region_North Africa,1.4310501276459952e-05
+cat__Order Country_Japón,1.4080749026581062e-05
+cat__Order Country_Zimbabue,1.3775427094762703e-05
+cat__Order Country_Ucrania,1.355083159607216e-05
+cat__Order Country_Costa de Marfil,1.351377018906644e-05
+cat__Order Country_Uzbekistán,1.2973738253565413e-05
+cat__Order Region_West Africa,1.28186084213293e-05
+cat__Order Region_Eastern Europe,1.2291508370932527e-05
+cat__Order Country_Martinica,1.1987242056800399e-05
+cat__Order Country_Vietnam,1.1934931342583907e-05
+cat__Order Country_Sierra Leona,1.1921684008377641e-05
+cat__Order Region_Eastern Asia,1.1775294141928813e-05
+cat__Market_Africa,1.1612172288225404e-05
+cat__Order Country_Yemen,1.1305724016109562e-05
+cat__Order Country_Turquía,1.1258974653455892e-05
+cat__Order Country_Mongolia,1.1158993362541648e-05
+cat__Market_Pacific Asia,1.0764922527481375e-05
+cat__Order Country_Azerbaiyán,1.050892329069316e-05
+cat__Order Country_Etiopía,1.0438003818556818e-05
+cat__Order Country_Nicaragua,1.0339378789872036e-05
+cat__Order Country_Egipto,1.0163129738881113e-05
+cat__Order Country_Arabia Saudí,9.743455977937433e-06
+cat__Order Country_Nueva Zelanda,9.622579595930695e-06
+cat__Order Country_Taiwán,9.287678009967613e-06
+cat__Order Country_Libia,9.105184004954704e-06
+cat__Order Country_Costa Rica,8.249509277240078e-06
+cat__Order Country_Rumania,8.065826515486756e-06
+cat__Order Region_Central America,7.807183527773841e-06
+cat__Market_Europe,7.743329348502765e-06
+cat__Order Country_Estados Unidos,7.647646210838566e-06
+cat__Order Country_Zambia,7.439660366639929e-06
+cat__Order Country_Uganda,7.046486496892374e-06
+cat__Order Country_Nigeria,6.934637179728747e-06
+cat__Order Country_Irlanda,6.634020590281823e-06
+cat__Order Country_España,6.572421972440993e-06
+cat__Order Region_Oceania,6.224450823375527e-06
+cat__Order Country_Somalia,6.202299842350398e-06
+cat__Order Country_Ecuador,6.102146569088832e-06
+cat__Order Country_Yibuti,5.9291096070836465e-06
+cat__Order Country_Lituania,5.842315439044928e-06
+cat__Order Country_Camboya,5.8188727716581996e-06
+cat__Order Country_Jamaica,5.8022191329096436e-06
+cat__Order Region_East Africa,5.520425257802931e-06
+cat__Order Country_Georgia,5.316785244543453e-06
+cat__Order Country_Bulgaria,5.138997609233161e-06
+cat__Order Country_Bielorrusia,5.110707263713146e-06
+cat__Order Country_Ruanda,5.021248188004895e-06
+cat__Order Country_Kirguistán,4.983994266740383e-06
+cat__Order Country_Croacia,4.977684665631836e-06
+cat__Order Country_Jordania,4.7897444259025625e-06
+cat__Order Country_Nepal,4.391989653954686e-06
+cat__Order Country_Madagascar,3.5815016986754875e-06
+cat__Order Country_Afganistán,3.4020474943660753e-06
+cat__Order Country_Qatar,2.8964393141417565e-06
+cat__Order Country_Níger,2.7469609253626637e-06
+cat__Order Country_Gabón,2.6267597430747614e-06
+cat__Order Country_Emiratos Árabes Unidos,2.5711613859513443e-06
+cat__Market_USCA,1.8222446678045922e-06
+cat__Order Country_Mali,1.6116704208298033e-06
+cat__Order Country_Bosnia y Herzegovina,1.5145953341213674e-06
+cat__Order Country_Barbados,1.4450625411097e-06
+cat__Order Country_Hong Kong,1.3859857872494423e-06
+cat__Order Country_Liberia,1.1517913229343815e-06
+cat__Order Country_Namibia,1.1501074301956914e-06
+cat__Order Country_República Centroafricana,9.572139249841822e-07
+cat__Order Country_Guinea-Bissau,8.581366208789358e-07
+cat__Order Country_Armenia,0.0
+cat__Order Country_Bután,0.0
+cat__Order Country_Burkina Faso,0.0
+cat__Order Country_Baréin,0.0
+cat__Order Country_Belice,0.0
+cat__Order Country_Botsuana,0.0
+cat__Order Country_Chipre,0.0
+cat__Order Country_Chad,0.0
+cat__Order Country_Burundi,0.0
+cat__Order Country_Mauritania,0.0
+cat__Order Country_Montenegro,0.0
+cat__Order Country_Luxemburgo,0.0
+cat__Order Country_Kuwait,0.0
+cat__Order Country_Laos,0.0
+cat__Order Country_Estonia,0.0
+cat__Order Country_Eritrea,0.0
+cat__Order Country_Guadalupe,0.0
+cat__Order Country_Grecia,0.0
+cat__Order Country_Guinea Ecuatorial,0.0
+cat__Order Country_Guinea,0.0
+cat__Order Country_Guayana Francesa,0.0
+cat__Order Country_Guyana,0.0
+cat__Order Country_Eslovaquia,0.0
+cat__Order Country_Eslovenia,0.0
+cat__Order Country_Líbano,0.0
+cat__Order Country_Macedonia,0.0
+cat__Order Country_Lesoto,0.0
+cat__Order Country_República del Congo,0.0
+cat__Order Country_República de Gambia,0.0
+cat__Order Country_Omán,0.0
+cat__Order Country_Serbia,0.0
+cat__Order Country_Sáhara Occidental,0.0
+cat__Order Country_Sudán del Sur,0.0
+cat__Order Country_Sri Lanka,0.0
+cat__Order Country_Suazilandia,0.0
+cat__Order Country_Surinam,0.0
+cat__Order Country_Túnez,0.0
+cat__Order Country_Tayikistán,0.0
